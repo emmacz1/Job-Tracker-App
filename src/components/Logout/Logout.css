@@ -1,0 +1,15 @@
+.login-container {
+  background-color: #f0f0f0;
+  padding: 20px;
+  border-radius: 10px;
+}
+.inputBox {
+  display: flex;
+  flex-direction: column;
+}
+input {
+  margin-bottom: 10px;
+}
+button {
+  margin-bottom: 8px;
+}
